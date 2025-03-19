@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "task": "Do the laundry",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "description": "o",
+        "completed": false
+    }
+]
